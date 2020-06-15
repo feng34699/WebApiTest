@@ -1,0 +1,11 @@
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\bin\Debug\netcoreapp2.2\HemaWebApi.deps.json
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\bin\Debug\netcoreapp2.2\HemaWebApi.runtimeconfig.json
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\bin\Debug\netcoreapp2.2\HemaWebApi.runtimeconfig.dev.json
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\bin\Debug\netcoreapp2.2\HemaWebApi.dll
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\obj\Debug\netcoreapp2.2\HemaWebApi.csprojAssemblyReference.cache
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\obj\Debug\netcoreapp2.2\HemaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\obj\Debug\netcoreapp2.2\HemaWebApi.RazorAssemblyInfo.cache
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\obj\Debug\netcoreapp2.2\HemaWebApi.RazorAssemblyInfo.cs
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\obj\Debug\netcoreapp2.2\HemaWebApi.AssemblyInfoInputs.cache
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\obj\Debug\netcoreapp2.2\HemaWebApi.AssemblyInfo.cs
+C:\Users\Administrator.DADI-20190225EO\source\repos\HemaWebApi\HemaWebApi\obj\Debug\netcoreapp2.2\HemaWebApi.RazorTargetAssemblyInfo.cache
